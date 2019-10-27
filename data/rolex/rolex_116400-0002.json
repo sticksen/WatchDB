@@ -1,0 +1,37 @@
+{
+  "info": {
+    "brand": "Rolex",
+    "family": "Milgauss",
+    "reference": "116400-0002",
+    "name": "Milgauss White",
+    "produce start": 2007,
+    "produce_end": 2007,
+    "limited": false
+  },
+  "case": {
+    "material": "Stainless Steel",
+    "glass": "Sapphire",
+    "back": "Closed",
+    "shape": "Round",
+    "diameter": "40.00mm",
+    "lug width": "20.00mm",
+    "water resistance": "100.00m"
+  },
+  "movement": {
+    "type": "automatic",
+    "brand": "Rolex",
+    "caliber": "3131",
+    "base": "Rolex 3130",
+    "display": "analog",
+    "diameter": "28.50mm",
+    "jewels": 31,
+    "reserve": "48 h",
+    "frequency": 28800,
+    "additionals": "chronometer"
+  },
+  "dial": {
+    "color": "black",
+    "indexes": "Stick / Dot",
+    "hands": "Rolex Professional (Maxi)"
+  }
+}
