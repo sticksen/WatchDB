@@ -1,0 +1,38 @@
+{
+  "info": {
+    "brand": "Rolex",
+    "family": "GMT-Master",
+    "reference": "17616",
+    "name": "GMT-Master 16700",
+    "produce start": 1988,
+    "produce_end": 1999,
+    "limited": false
+  },
+  "case": {
+    "material": "Stainless Steel",
+    "bezel": "Rotating, 24 Hour",
+    "glass": "Sapphire",
+    "back": "Closed",
+    "shape": "Round",
+    "diameter": "40.00mm",
+    "height": "11.00mm",
+    "lug width": "20.00mm",
+    "water resistance": "100.00m"
+  },
+  "movement": {
+    "type": "automatic",
+    "brand": "Rolex",
+    "caliber": "3175",
+    "base": "Rolex 3135",
+    "display": "analog",
+    "diameter": "28.50mm",
+    "jewels": 31,
+    "reserve": "48 h",
+    "frequency": 28800
+  },
+  "dial": {
+    "color": "black",
+    "indexes": "Stick / Dot",
+    "hands": "Mercedes"
+  }
+}
