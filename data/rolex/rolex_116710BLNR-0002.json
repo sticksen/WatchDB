@@ -1,0 +1,37 @@
+{
+  "info": {
+    "brand": "Rolex",
+    "family": "GMT-Master",
+    "reference": "116710BLNR-0002",
+    "name": "GMT-Master II Stainless Steel / BLNR",
+    "produce start": 2013,
+    "produce_end": 2019,
+    "limited": false
+  },
+  "case": {
+    "material": "Stainless Steel",
+    "bezel": "Rotating, 24 Hour",
+    "glass": "Sapphire",
+    "back": "Closed",
+    "shape": "Round",
+    "diameter": "40.00mm",
+    "height": "12.00mm",
+    "lug width": "20.00mm",
+    "water resistance": "100.00m"
+  },
+  "movement": {
+    "type": "automatic",
+    "brand": "Rolex",
+    "caliber": "3186",
+    "display": "analog",
+    "diameter": "28.50mm",
+    "jewels": 31,
+    "reserve": "50 h",
+    "frequency": 28800
+  },
+  "dial": {
+    "color": "black",
+    "indexes": "Stick / Dot",
+    "hands": "Rolex Professional (Maxi)"
+  }
+}
