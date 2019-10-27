@@ -1,0 +1,30 @@
+{
+  "info": {
+    "brand": "Hamilton",
+    "family": "Khaki Field",
+    "reference": "H70555533",
+    "name": "Khaki Field Automatic 42",
+    "limited": false
+  },
+  "case": {
+    "material": "Stainless Steel",
+    "glass": "Sapphire",
+    "back": "Open",
+    "shape": "Round",
+    "diameter": "42.00mm",
+    "water resistance": "100.00m"
+  },
+  "movement": {
+    "type": "automatic",
+    "brand": "ETA",
+    "caliber": "2824-2",
+    "display": "analog",
+    "diameter": "25.60mm",
+    "jewels": 25,
+    "frequency": 28800
+  },
+  "dial": {
+    "color": "black",
+    "indexes": "Arabic Numerals"
+  }
+}
